@@ -8,6 +8,10 @@
 > 4. Sajin Ahmed Nirjona
 </br>
 
+
+## SO Far Progress img:
+![image](https://github.com/user-attachments/assets/4996dbf3-ccff-4728-bcdb-6205d4bb77de)
+</br>
 ## Purpose: 
 Develop a chatbot to help the Students :-
 - Understand the procedure of applying for Abroad Studies;
