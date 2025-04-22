@@ -3,9 +3,9 @@
 
 > ✔️ **Team Members: <sup> G:1 </sup>**
 > 1. Muhtadina Serniabat Tasin <!--<sub> 2232160642 </sub>-->
-> 2. Md. Rizvi Ahmed Safin
+> 2. ~Md. Rizvi Ahmed Safin~
 > 3. Yousra Amin
-> 4. Sajin Ahmed Nirjona
+> 4. ~Sajin Ahmed Nirjona~
 </br>
 
 ## Purpose: 
