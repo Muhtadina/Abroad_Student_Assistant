@@ -6,4 +6,11 @@
 > 
 > LLM Agent - Langchain
 > 
-> GUI - raw HTML, CSS 
+> GUI - raw HTML, CSS
+>
+> Python.exe - 3.13.2 version
+
+## How to run the Project 
+Open the terminal and put the following agruments accordingly one by one - 
+1. ```venv/Scripts/activate```
+2. ```python app.py```
