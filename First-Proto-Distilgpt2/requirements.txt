@@ -1,0 +1,7 @@
+# project_directory/requirements.txt
+flask
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+chromadb
