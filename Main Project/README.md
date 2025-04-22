@@ -8,7 +8,7 @@
 >
 > Python.exe - 3.11 version
 
-### How to run the project 
+## How to run the project 
 Open the terminal and use these arguments accordingly
 
 1. ```python -m venv venv```
